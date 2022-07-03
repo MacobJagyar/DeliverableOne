@@ -1,0 +1,15 @@
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.exe
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.deps.json
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.runtimeconfig.json
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.dll
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.pdb
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.csproj.AssemblyReference.cache
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.AssemblyInfo.cs
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.dll
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\refint\DeliverableOne.dll
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.pdb
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.genruntimeconfig.cache
+C:\Users\Jake\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\ref\DeliverableOne.dll
