@@ -4,7 +4,7 @@ string output;
 do
 {
     Console.Write("How many people are we making PB&J sandwiches for? ");
-    double input = int.Parse(Console.ReadLine());
+    double input = double.Parse(Console.ReadLine());
 
     Console.WriteLine(" ");
 
